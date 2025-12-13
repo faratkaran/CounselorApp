@@ -1,0 +1,6 @@
+package com.ca.enums;
+
+public enum Course {
+
+	JAVA_FULL_STACK, MERN_STACK, PYTHON_FULL_STACK, DATA_SCIENCE, DATA_ANALYST, DEVOPS, QA_ENGENEER
+}
